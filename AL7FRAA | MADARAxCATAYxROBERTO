@@ -862,4 +862,38 @@ local Tab = Window:CreateTab(".awamr.", 96509056170213) -- Title, Image
 
 local Section = Tab:CreateSection("السكربت من صنع تحالف LQxAL7FRAA")
 
-local Section = Tab:CreateSection("اوامر وطرق من شاتاي وا معذبهم")
+local Section = Tab:CreateSection(" اوامر وطرق من شاتاي وا معذبهم واربيرتو")
+
+local Section = Tab:CreateSection(" Nogshadows 400")
+
+local Section = Tab:CreateSection("Use2022materials")
+
+local Section = Tap:CreateSection("autokeypress space 200")
+
+local Section = Tab:CreateSection("autokeypress 300")
+
+local Section = Tab:CreateSection("Nogui")
+
+local Section = Tab:CreateSection("Antiafk")
+
+local Section = Tab:CreateSection("Anticrash")
+
+local Section = Tab:CreateSection("xray")
+
+local Section = Tab:CreateSection("Datalimit")
+
+local Section = Tab:CreateSection("chams")
+
+local Section = Tab:CreateSection("Norder")
+
+local Section = Tab:CreateSection("Nogui")
+
+local Section = Tab:CreateSection("sandbox")
+
+local local Section = Tab:CreateSection("lightening")
+
+local Section = Tab:CreateSection("Hideplayer")
+
+local Section = Tab:CreateSection("lighting")
+
+local Section = Tab:CreateSection("bright")
