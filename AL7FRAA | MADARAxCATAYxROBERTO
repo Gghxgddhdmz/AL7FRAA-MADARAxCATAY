@@ -862,4 +862,10 @@ local Tab = Window:CreateTab(".awamr.", 96509056170213) -- Title, Image
 
 local Section = Tab:CreateSection("السكربت من صنع تحالف LQxAL7FRAA")
 
+local Section = Tab:CreateSection("واروبيرتو اوامر وطرق من شاتاي وا معذبهم")
+
+local Section = Tab:CreateSection("autokeypress space 200")
+
 local Section = Tab:CreateSection("اوامر وطرق من شاتاي وا معذبهم")
+
+local Section = Tab:CreateSection("autokeypress 300 ")
